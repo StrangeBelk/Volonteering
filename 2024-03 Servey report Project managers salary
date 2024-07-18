@@ -1,0 +1,20 @@
+#When:
+2024 March
+
+#I was responsible for:
+- Data clearing;
+- Creating interactive dashboard;
+
+#I did:
+- Standardize and merge results of two waves of the survey with a different structure
+- Created functions to clear data misspellings and typo
+- Created datamodel
+- Created in 
+
+
+#Technologies:
+- Data source — Google spreadsheets
+- BI — Power BI
+
+#Result
+https://app.powerbi.com/view?r=eyJrIjoiNGYyOWU1NmItZmIzMS00YTM4LWEzNWMtYTJjODI4MDQ3ODY2IiwidCI6ImM3ZWM3NDlkLTMyNDAtNDZkOS1iNDA1LWVhMzdlZDUwYzA4MiIsImMiOjl9
