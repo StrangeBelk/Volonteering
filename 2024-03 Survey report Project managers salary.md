@@ -8,8 +8,8 @@
 # I did:
 - Standardize and merge results of two waves of the survey with a different structure
 - Created functions to clear data misspellings and typo
-- Created datamodel
-- Created in 
+- Created datamodel and measures
+- Created visualisation
 
 # Technologies:
 - Data source — Google spreadsheets
